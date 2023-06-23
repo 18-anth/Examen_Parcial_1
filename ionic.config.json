@@ -1,0 +1,7 @@
+{
+  "name": "ExamenParcial1_AnthCor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
